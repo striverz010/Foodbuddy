@@ -1,0 +1,58 @@
+.header {
+  border: 2px solid #000;
+  border-radius: 10px;
+  justify-content: space-between;
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+}
+
+#logo {
+  border: 2px solid orange;
+  border-radius: 50%;
+  width: 100px;
+}
+
+.nav-items > ul {
+  display: flex;
+}
+
+.nav-items > ul > li {
+  margin-top: 10px;
+  margin-right: 20px;
+  font-size: larger;
+  font-weight: 500;
+  list-style-type: none;
+}
+
+.nav-items > ul > li:hover {
+  color: orange;
+  cursor: pointer;
+}
+
+.body {
+  border: 2px solid #000;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.footer {
+  color: orange;
+  background-color: #000;
+  border: 2px solid orange;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.footer > h1 {
+  margin-left: 43%;
+}
+
+.footer > h5 > span {
+  color: #fff;
+  margin-left: 42%;
+}
+
+/*# sourceMappingURL=index.3a01df49.css.map */
